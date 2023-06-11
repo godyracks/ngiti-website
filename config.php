@@ -2,7 +2,7 @@
 // Database connection details
 define('DB_HOST', 'localhost');
 define('DB_USER', 'ngitixyz_agwata');
-define('DB_PASSWORD', '$@godygaro66');
+define('DB_PASSWORD', '****');
 define('DB_NAME', 'ngitixyz_products');
 
 // Create database connection
